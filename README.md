@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Ghoth+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Creative+%26+Motion+Designer+%F0%9F%8E%A8;Building+Modern+Web+%26+Cloud+Systems+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=750&lines=Hi+there%2C+I'm+Ghoth+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Creative+%26+Motion+Designer+%F0%9F%8E%A8;Building+Modern+Web+%26+Cloud+Apps+%E2%9A%A1" alt="Typing SVG" />
   
   <p align="center">
     <b>A Full-stack Developer & Motion Designer</b> passionate about crafting high-performance interactive web applications, robust backend architectures, and stunning visual experiences.
   </p>
 
   <p align="center">
-    <a href="https://github.com/Ghoth9">
-      <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
-    </a>
+    <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
+    <img src="https://komarev.com/ghpvc/?username=Ghoth9&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 </div>
 
@@ -57,12 +56,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ghoth9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ghoth's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ghoth9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ghoth9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ghoth's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ghoth9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghoth9&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=Ghoth9&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
