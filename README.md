@@ -78,3 +78,6 @@
 <div align="center">
   <sub>✨ <i>"Bridging the gap between creative visual motion and powerful code."</i> ✨</sub>
 </div>
+<a href="วาง_URL_LINKEDIN_ตรงนี้" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
