@@ -71,6 +71,9 @@
   <a href="https://github.com/Ghoth9">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="วาง_URL_LINKEDIN_ตรงนี้" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 <br>
@@ -78,5 +81,3 @@
 <a href="วาง_URL_LINKEDIN_ตรงนี้" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<br>
