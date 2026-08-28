@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=750&lines=Hi+there%2C+I'm+Ghoth+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Creative+%26+Motion+Designer+%F0%9F%8E%A8;Building+Modern+Web+%26+Cloud+Apps+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=750&lines=Hi+there%2C+I'm+Ghoth+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Cinema+4D+%26+After+Effects+Artist+%F0%9F%8E%AC;Building+Modern+Web+%26+Cloud+Apps+%E2%9A%A1" alt="Typing SVG" />
   
   <p align="center">
-    <b>A Full-stack Developer & Motion Designer</b> passionate about crafting high-performance interactive web applications, robust backend architectures, and stunning visual experiences.
+    <b>A Full-stack Developer & Motion Designer</b> passionate about crafting high-performance interactive web applications, robust backend architectures, and stunning 3D visual experiences.
   </p>
 
   <p align="center">
@@ -16,7 +16,7 @@
 ### ⚡ What I Do
 
 - 🚀 **Full-Stack Web Development:** Building scalable, real-time web applications with React, Next.js, TypeScript & Supabase.
-- 🎨 **Creative & Motion Design:** Designing high-impact 2D/3D visual graphics, intros, and UI/UX motion with Blender & After Effects.
+- 🎬 **Creative, 3D & Motion Design:** Designing high-impact 3D visual graphics, intros, and dynamic UI motion with **Cinema 4D** & **Adobe After Effects**.
 - 🛠️ **System & Workflow Automation:** Integrating cloud functions, APIs, and automated bots (LINE Messaging API, Serverless, Webhooks).
 
 ---
@@ -44,24 +44,23 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 #### 🎬 Creative, 3D & Motion Graphics
-![Blender](https://img.shields.io/badge/Blender_3D-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Cinema 4D](https://img.shields.io/badge/Cinema_4D-001B44?style=for-the-badge&logo=maxon&logoColor=white)
 ![After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-EA77FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Summary
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ghoth9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ghoth's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ghoth9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghoth9&theme=tokyonight" alt="Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ghoth9&theme=tokyonight" alt="Stats" width="49%" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=Ghoth9&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+<div align="center" style="margin-top: 8px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ghoth9&theme=tokyonight" alt="Repos per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ghoth9&theme=tokyonight" alt="Most Commit Language" width="49%" />
 </div>
 
 ---
