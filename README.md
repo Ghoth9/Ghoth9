@@ -71,7 +71,7 @@
   <a href="https://github.com/Ghoth9">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BX0hLSj%2BlQ02Bj1IhcLoK4A%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/nonpawit-sensad-121b38431/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
